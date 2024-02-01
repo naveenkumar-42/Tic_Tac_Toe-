@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TIC_TAC_TOE</string>
+    <string name="title_activity_game">game</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="todo">TODO</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="todo1">TODO</string>
+    <string name="start">start</string>
+    <string name="todo2">TODO</string>
+    <string name="tic_tac_toe1">TIC TAC TOE</string>
+    <string name="ready_to_play">Ready To Play</string>
+    <string name="play">PLAY</string>
+</resources>
